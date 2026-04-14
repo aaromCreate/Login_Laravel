@@ -28,7 +28,7 @@ Implementar un módulo de autenticación (login y registro) en Laravel, exploran
 
 Laravel organiza el código bajo el patrón **Modelo–Vista–Controlador**, separando responsabilidades de la siguiente manera:
 
-| Capa | Carpeta | Función |
+| Capa | Carpeta | Descripción |
 |---|---|---|
 | **Modelo** | `app/Models/` | Es la capa que gestiona los datos y la lógica de negocio. No sabe nada de cómo se ve la aplicación; su único trabajo es interactuar con la base de datos y aplicar reglas. |
 | **Vista** | `resources/views/` | Es la interfaz de usuario. Es lo que el cliente ve y con lo que interactúa (botones, formularios, textos). |
