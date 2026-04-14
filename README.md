@@ -234,14 +234,13 @@ php artisan migrate:fresh        # Elimina todas las tablas y vuelve a migrar
 <div align="center">
 
 ### Información 
-
+Este laboratorio ha sido desarrollado por el estudiante de la Universidad Tecnológica de Panamá: 
 | Campo | Detalle |
 |---|---|
 | **Nombre** | `Aaron Ortiz` |
 | **Correo** | `aaron.ortiz@utp.ac.pa` |
 | **Curso** | Desarrollo Web VII |
 | **Instructor** | Ing. Irina Fong |
-| **Facultad** | Ingeniería de Sistemas Computacionales |
 ---
 
 *Laboratorio #2 — Implementación del Login en Laravel | Unidad I: Patrón MVC*
