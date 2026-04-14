@@ -239,7 +239,7 @@ Este laboratorio ha sido desarrollado por el estudiante de la Universidad Tecnol
 |---|---|
 | **Nombre** | `Aaron Ortiz` |
 | **Correo** | `aaron.ortiz@utp.ac.pa` |
-| **Curso** | Desarrollo Web VII |
+| **Curso** | Desarrollo de Software VII |
 | **Instructor** | Ing. Irina Fong |
 ---
 
