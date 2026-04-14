@@ -227,7 +227,7 @@ php artisan migrate:fresh        # Elimina todas las tablas y vuelve a migrar
 |---|---|
 | **Fecha de realización** | 8 de Abril 2026 |
 | **Fecha límite de entrega** | 15 de abril de 2026 |
-| **Semestre** | II Semestre 2025 |
+| **Semestre** | I Semestre 2025 |
 
 ---
 
