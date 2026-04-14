@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://laravel.com/docs/13.x"> <img src="https://img.shields.io/badge/Laravel-13.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> </a>
-  <a href="">  <img src="https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php&logoColor=white" /> </a>
-  <a href="">  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </a>
-  <a href="">  <img src="https://img.shields.io/badge/Composer-Dependency_Manager-885630?style=for-the-badge&logo=composer&logoColor=white" /> </a>
-  <a href="">  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> </a>
-  <a href="">  <img src="https://img.shields.io/badge/Node.js-NPM-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> </a>
-  <a href="">  <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </a>
-  <a href="">  <img src="https://img.shields.io/badge/Windows_10%2F11-OS-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
-  <a href="">  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" /> </a>
+  <a href="https://www.php.net/">  <img src="https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php&logoColor=white" /> </a>
+  <a href="https://www.mysql.com/">  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </a>
+  <a href="https://getcomposer.org/">  <img src="https://img.shields.io/badge/Composer-Dependency_Manager-885630?style=for-the-badge&logo=composer&logoColor=white" /> </a>
+  <a href="https://getbootstrap.com/">  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> </a>
+  <a href="https://nodejs.org/en">  <img src="https://img.shields.io/badge/Node.js-NPM-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> </a>
+  <a href="https://code.visualstudio.com/">  <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </a>
+  <a>  <img src="https://img.shields.io/badge/Windows_10%2F11-OS-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </a>
+  <a>  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" /> </a>
 </p>
 
 <p align="center">
