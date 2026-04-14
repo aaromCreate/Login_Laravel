@@ -1,4 +1,4 @@
-<h1 align="center">🔐 Laravel Login Lab</h1>
+<h1 align="center"> Laravel Login Lab</h1>
 
 <p align="center">
   <a href="https://laravel.com/docs/13.x"> <img src="https://img.shields.io/badge/Laravel-13.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> </a>
@@ -192,7 +192,10 @@ php artisan migrate:fresh        # Elimina todas las tablas y vuelve a migrar
 
 ## Resultado del Laboratorio
 
-> Agregar aquí un screenshot del login en `http://127.0.0.1:8000/login`
+<img width="1320" height="610" alt="Captura de pantalla 2026-04-14 173019" src="https://github.com/user-attachments/assets/e1d578bc-25ba-4e62-a337-e9934c6c48a7" />
+<img width="1320" height="610" alt="Captura de pantalla 2026-04-14 173115" src="https://github.com/user-attachments/assets/2d0a13fe-a042-4c36-a0a1-eab0c45feaee" />
+<img width="1320" height="610" alt="Captura de pantalla 2026-04-14 173209" src="https://github.com/user-attachments/assets/af5a41a5-26c5-49a2-84e6-eaba1d709b24" />
+
 
 ---
 
