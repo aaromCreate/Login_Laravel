@@ -201,7 +201,9 @@ php artisan migrate:fresh        # Elimina todas las tablas y vuelve a migrar
 
 ## Dificultades y Soluciones
 
-Ninguna :D
+|Problema| solución|
+|---|---|
+|Problema con la conexion a la BD| Modificar el archivo env. especificamente en **Session_Drive** colocando que sea **file**|
 
 ---
 
